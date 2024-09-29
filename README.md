@@ -12,7 +12,7 @@ Welcome to the Kubernetes Lab Provisioning Guide! This repository provides a com
 
 
 ### What’s Inside:
-[ ] <strong>Infrastructure Provisioning</strong>: Set up your lab using tools like Proxmox, Terraform, and Ansible.
+- [ ] <strong>Infrastructure Provisioning</strong>: Set up your lab using tools like Proxmox, Terraform, and Ansible.
 [ ] <strong>Kubernetes Installation</strong>: Install and configure Kubernetes with essential components like Calico, OpenEBS, and MetalLB.
 [ ] <strong>Lab Exercises</strong>: Engage in hands-on exercises to reinforce your learning.
 [ ] <strong>Troubleshooting Tips</strong>: Find solutions to common issues and challenges.
